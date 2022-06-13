@@ -7,7 +7,7 @@ const user = {
   name: "Hi, I am John,",
   job: "Creative Technologis",
   description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-  img: "images/Ellipse 1.png",
+  img: "https://res.cloudinary.com/https-asm2022-psi-vercel-app/image/upload/v1655086730/images/Ellipse_1_1_zyzo7w.jpg",
 }
 
 const post = [
